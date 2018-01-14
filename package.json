@@ -1,0 +1,24 @@
+{
+  "name": "jquery-slide",
+  "version": "1.0.0",
+  "description": "a jquery-based slide plugin",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "plugin"
+  ],
+  "author": "Qingpeng Ma",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
